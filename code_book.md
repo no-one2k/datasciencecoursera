@@ -87,4 +87,4 @@ Columns:
 80. fBodyBodyGyroJerkMag.std..
 81. fBodyBodyGyroJerkMag.meanFreq..
 
-Variables 3-81 are average values of corresponding variables of original dataset. See describtion in files 
+Variables 3-81 are average values of corresponding variables of original dataset. See describtion in files https://github.com/no-one2k/datasciencecoursera/blob/master/original/features.txt and https://github.com/no-one2k/datasciencecoursera/blob/master/original/features_info.txt
